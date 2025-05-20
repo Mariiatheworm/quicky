@@ -11,6 +11,7 @@ import { Button } from "@/components/ui/button"
         class="text-2xl font-bold text-blue flex items-center gap-2"
       >
         <img src="/logo.png" alt="Quicky Logo" class="h-8" />
+ 
       </RouterLink>
 
       <nav class="flex gap-4">
